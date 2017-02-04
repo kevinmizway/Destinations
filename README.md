@@ -4,7 +4,7 @@
 
 ## _Description_
 
-_This application is a demonstration of constructors using Javascript to create a simple Destination details app_
+This application is a demonstration of constructors using Javascript to create a simple Destination details app
 
 ## _Setup_
 
